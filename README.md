@@ -3,7 +3,7 @@
 This is an experimental Image Segmentation project for Spleen based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
 <a href="https://drive.google.com/file/d/1uFdvbuDOLHhNvgDC8MR9TZalTBrbim3J/view?usp=sharing">
-Spleen-ImageMask-Dataset_V2.zip</a> 
+Spleen-ImageMask-Dataset.zip</a> 
 <br>
 
 <br>
@@ -84,7 +84,7 @@ uploaded by
  If you would like to train this Spleen Segmentation model by yourself,
  please download the dataset from the google drive 
 <a href="https://drive.google.com/file/d/1uFdvbuDOLHhNvgDC8MR9TZalTBrbim3J/view?usp=sharing">
-Spleen-ImageMask-Dataset_V2.zip</a>.
+Spleen-ImageMask-Dataset.zip</a>.
 Please see also <a href="https://github.com/sarah-antillia/ImageMask-Dataset-Spleen">ImageMask-Dataset-Spleen</a>. 
 <br>
 
