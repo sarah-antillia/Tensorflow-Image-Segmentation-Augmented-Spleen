@@ -271,7 +271,7 @@ and run the following bat file to train TensorflowUNet model for Spleen.<br>
 <pre>
 ./1.train.bat
 </pre>
-, which simply runs <a href="./src/TensorflowUNetTrainer.py">TensorflowUNetGeneratorTrainer.py </a>
+, which simply runs <a href="./src/TensorflowUNetTrainer.py">TensorflowUNetTrainer.py </a>
 in the following way.
 
 <pre>
